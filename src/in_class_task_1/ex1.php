@@ -9,7 +9,7 @@
 
     <?php 
         $my_name = "Phuoc"; 
-        echo "Hello world! My name is ".$my_name; 
+        echo "<h3>Hello world! My name is \"$my_name\"<h3>"; 
 
         $title = "PHP is interesting.";
         echo "<h4>".$title."</h4>";
