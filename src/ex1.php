@@ -1,19 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercise 1: Getting Started with PHP - Phuoc</title>
-    <style>
-        table, th, td {
-            border: 1px solid black;
-            border-collapse: collapse;
-        }
-        </style>
-</head>
-<body>
 
-    <?php 
+<?php 
+$title ='Exercise 1: Getting Started with PHP';
+$excercise = "This is excercise 1";
+$description = "Exercise 1: Getting Started with PHP";
+include "./extension/header.php";?>
+<div class="container-lg content-white py-5"> 
+    <div class="row">
+        <div class="col-lg-12"><?php 
         $my_name = "Phuoc"; 
         echo "<h3>Hello world! My name is \"$my_name\"<h3>"; 
 
@@ -47,6 +40,9 @@
                 <th><?php echo $g3; ?></th>
             </tr>
             </table>
-        <?php echo "<img alt=\"Env development confirm\" src=\"./image/env_phuoc_nguyen.PNG\">";?>
-</body>
-</html>
+        <?php echo "<img alt=\"Env development confirm\" src=\"./image/env_phuoc_nguyen.PNG\">";?></div>
+    
+    </div></div>
+   
+
+        <?php include "./extension/footer.php";?>
