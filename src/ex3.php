@@ -81,6 +81,20 @@ include "./extension/header.php";?>
                 <h1 class="pt-4">Browser Derection</h1>
                 <?php
                     echo $_SERVER["HTTP_USER_AGENT"];
+   
+                    if(strpos($_SERVER["HTTP_USER_AGENT"], "Chrome") == true && strpos($_SERVER["HTTP_USER_AGENT"], "Edg") == false){
+                        echo "<p> You are using <strong>Chrome</strong> </p>";
+                    }
+                    else if(strpos($_SERVER["HTTP_USER_AGENT"], "Chrome") == true && strpos($_SERVER["HTTP_USER_AGENT"], "Edg") == true){
+                        echo "<p> You are using <strong>Edge</strong> </p>";
+                    }
+                    else if(strpos($_SERVER["HTTP_USER_AGENT"], "Firefox") == true){
+                        echo "<p> You are using <strong>Firefox</strong> </p>";
+                    }
+                    else if(strpos($_SERVER["HTTP_USER_AGENT"], "Safari") == true){
+                        echo "<p> You are using <strong>Safari</strong> </p>";
+                    }
+                    
                 ?>
                 <h1 class="pt-4">Footer modification times</h1>
                 <?php
