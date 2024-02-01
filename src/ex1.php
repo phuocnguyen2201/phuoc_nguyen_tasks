@@ -4,7 +4,8 @@ $title ='Exercise 1: Getting Started with PHP';
 $excercise = "This is excercise 1";
 $description = "Exercise 1: Getting Started with PHP";
 include "./extension/header.php";?>
-<div class="container-lg content-white py-5"> 
+<div class="content-white py-5">
+<div class="container-lg"> 
     <div class="row">
         <div class="col-lg-12"><?php 
         $my_name = "Phuoc"; 
@@ -43,6 +44,7 @@ include "./extension/header.php";?>
         <?php echo "<img alt=\"Env development confirm\" src=\"./image/env_phuoc_nguyen.PNG\">";?></div>
     
     </div></div>
+</div>
    
 
         <?php include "./extension/footer.php";?>
