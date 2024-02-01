@@ -1,8 +1,8 @@
 
 <?php 
-$title ='Exercise 3: Variable, Strings & Operators';
-$excercise = "This is excercise 3";
-$description = "Exercise 3: Variable, Strings & Operators";
+$title ='Exercise 4: Control flow and loops';
+$excercise = "This is excercise 4";
+$description = "Exercise 4: Control flow and loops";
 include "./extension/header.php";?>
 <div class="content-white">
     <div class="container-lg py-5">
