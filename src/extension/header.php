@@ -57,8 +57,8 @@
               <div class="col-lg-6 col-md-12 mb-4 mt-5">
                   <h1 class="title"><?php echo $excercise?></h1>
                   <p><?php echo $description?></p>
-                  <a href="/ex1.php"><button type="button" class="btn-normal">Excercise 1</button></a>
-                  <a href="/ex2.php"><button type="button" class="btn-normal">Excercise 2</button></a>
+                  <a href="ex1.php"><button type="button" class="btn-normal">Excercise 1</button></a>
+                  <a href="ex2.php"><button type="button" class="btn-normal">Excercise 2</button></a>
               </div>
               <div class="col-lg-6 col-md-12 mb-4">
                   <img class="img-thumbnail" alt="A man sitting on the rooftop and working with his laptop" src="image/avi-richards-Z3ownETsdNQ-unsplash.jpg">
