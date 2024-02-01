@@ -78,7 +78,7 @@ include "./extension/header.php";?>
                     echo $numb1 ." + ". $numb2." + ". $numb3." = ".$numb1 + $numb2 + $numb3;
                  ?>
 
-                <h1 class="pt-4">Browser Derection</h1>
+                <h1 class="pt-4">Browser Detection</h1>
                 <?php
                     echo $_SERVER["HTTP_USER_AGENT"];
    
