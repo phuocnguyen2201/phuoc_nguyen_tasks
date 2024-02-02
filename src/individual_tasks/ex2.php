@@ -3,7 +3,7 @@
 $title ='PHP - Exercise 2: Create Universal header, footer or sidebar';
 $excercise = "This is excercise 2";
 $description = "PHP - Exercise 2: Create Universal header, footer or sidebar";
-include "./extension/header.php";?>
+include "../individual_tasks/extension/header.php";?>
 <div class="content-white py-5">
 <div class="container-lg">
     <div class="row">
@@ -11,4 +11,4 @@ include "./extension/header.php";?>
     </div>
 </div>
 </div>
-<?php include "./extension/footer.php";?>
+<?php include "../individual_tasks/extension/footer.php";?>

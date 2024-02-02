@@ -3,7 +3,7 @@
 $title ='Exercise 1: Getting Started with PHP';
 $excercise = "This is excercise 1";
 $description = "Exercise 1: Getting Started with PHP";
-include "./extension/header.php";?>
+include "../individual_tasks/extension/header.php";?>
 <div class="content-white py-5">
 <div class="container-lg"> 
     <div class="row">
@@ -47,4 +47,4 @@ include "./extension/header.php";?>
 </div>
    
 
-        <?php include "./extension/footer.php";?>
+        <?php include "../individual_tasks/extension/footer.php";?>

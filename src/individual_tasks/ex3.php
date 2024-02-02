@@ -3,7 +3,7 @@
 $title ='Exercise 3: Variable, Strings & Operators';
 $excercise = "This is excercise 3";
 $description = "Exercise 3: Variable, Strings & Operators";
-include "./extension/header.php";?>
+include "../individual_tasks/extension/header.php";?>
 <div class="content-white">
     <div class="container-lg py-5">
         <div class="row">
@@ -105,4 +105,4 @@ include "./extension/header.php";?>
         </div>
     </div>
 </div>
-<?php include "./extension/footer.php";?>
+<?php include "../individual_tasks/extension/footer.php";?>

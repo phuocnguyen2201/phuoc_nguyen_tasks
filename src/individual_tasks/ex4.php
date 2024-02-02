@@ -3,7 +3,7 @@
 $title ='Exercise 4: Control flow and loops';
 $excercise = "This is excercise 4";
 $description = "Exercise 4: Control flow and loops";
-include "./extension/header.php";?>
+include "../individual_tasks/extension/header.php";?>
 <div class="content-white">
     <div class="container-lg py-5">
         <div class="row">
@@ -158,4 +158,4 @@ include "./extension/header.php";?>
         </div></div>
     </div>
 </div>
-<?php include "./extension/footer.php";?>
+<?php include "../individual_tasks/extension/footer.php";?>

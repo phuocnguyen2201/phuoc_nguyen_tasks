@@ -6,7 +6,7 @@
 
     <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
 
-      <img class="header-icon" alt="G6 Portfolio footer logo" src="image/favicon_io/footer-favicon-32x32.png">
+      <img class="header-icon" alt="G6 Portfolio footer logo" src="/individual_tasks/image/favicon_io/footer-favicon-32x32.png">
 
       <p class="pt-3" style="color: white;">
         2024 Copyright.

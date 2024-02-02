@@ -6,15 +6,15 @@
     <meta name="description" content="Exploring your future wonderful highly skilled freelancer.">
     <title><?php echo $title?></title>
 
-    <link rel="icon" type="image/x-icon" href="./image/favicon_io/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/individual_tasks/image/favicon_io/favicon.ico">
 
     
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="./style/styles.css">
-    <link rel="stylesheet" type="text/css" href="./style/header.css">
-    <link rel="stylesheet" type="text/css" href="./style/styling-phuoc.css">
+    <link rel="stylesheet" type="text/css" href="/individual_tasks/style/styles.css">
+    <link rel="stylesheet" type="text/css" href="/individual_tasks/style/header.css">
+    <link rel="stylesheet" type="text/css" href="/individual_tasks/style/styling-phuoc.css">
     <script src="https://kit.fontawesome.com/192e3b220b.js" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -24,7 +24,7 @@
                 <div class="row"> 
                     <nav class="menu">
                         <div class="logo">
-                            <a href="/Portfolio_Project/"><img class="header-logo" alt="G6 Portfolio Logo" src="image/favicon_io/header-favicon-32x32.png"></a>
+                            <a href="/Portfolio_Project/"><img class="header-logo" alt="G6 Portfolio Logo" src="/individual_tasks/image/favicon_io/header-favicon-32x32.png"></a>
                         </div>
                         <input type="checkbox" id="check">
                         <label for="check" class="checkbtn">
