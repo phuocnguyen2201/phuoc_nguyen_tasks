@@ -1,0 +1,4 @@
+# enable directory browsing
+Options All +Indexes
+
+ErrorDocument 404 /individual_tasks/error.php

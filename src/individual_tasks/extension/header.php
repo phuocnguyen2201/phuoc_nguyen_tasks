@@ -1,3 +1,6 @@
+<?php 
+    include "../individual_tasks/index.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,8 +11,8 @@
 
     <link rel="icon" type="image/x-icon" href="/individual_tasks/image/favicon_io/favicon.ico">
 
-    
-
+   
+   
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/individual_tasks/style/styles.css">
@@ -66,7 +69,7 @@
                   <a href="#"><button type="button" class="btn-normal">Excercise 7</button></a>
               </div>
               <div class="col-lg-6 col-md-12 mb-4">
-                  <img class="img-thumbnail" alt="A man sitting on the rooftop and working with his laptop" src="image/avi-richards-Z3ownETsdNQ-unsplash.jpg">
+                  <img class="img-thumbnail" alt="A man sitting on the rooftop and working with his laptop" src="/individual_tasks/image/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg">
               </div>
           </div>
     </div></div>
