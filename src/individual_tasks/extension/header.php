@@ -1,6 +1,4 @@
-<?php 
-    include "../individual_tasks/index.php";
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
